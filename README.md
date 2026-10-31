@@ -150,7 +150,3 @@ Use the entry point that actually launches your application.
 ## 👨‍💻 Author
 
 Developed as a practical exploration of programming, machine learning, and AI applications.
-
-## 📄 License
-
-A license can be added if the project is intended for public use or distribution.
